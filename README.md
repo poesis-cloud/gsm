@@ -9,18 +9,22 @@ released as an open specification for the cloud-native community.
 
 ## Read the specification
 
-The full, rendered specification and companion material live at:
+The canonical spec sources live in [`docs/`](docs/); the rendered site is generated from them:
 
 > **<https://docs.poesis.cloud/gsm/>**
 
 | Document | Purpose |
 | --- | --- |
-| Manifesto | Why GSM exists |
-| Primer | A gentle introduction to the model |
-| Foundations | Axioms and first principles |
-| Specification | The normative model — primitives, governance grammar, lifecycle |
-| Conformance | What it means to conform |
-| Charter | Scope and governance of the standard |
+| [Manifesto](docs/manifesto.md) | Why GSM exists, and the ten principles it commits to |
+| [Primer](docs/primer.md) | A gentle, non-normative introduction with a running example |
+| [Foundations & Rationale](docs/foundations.md) | The *why* beneath the model and its design axioms |
+| [Specification](docs/specification.md) | The normative model — primitives, DNA grammar, Archetypes, lifecycle, interchange |
+| [Conformance](docs/conformance.md) | The testable requirement catalog and conformance profiles |
+| [Charter](docs/charter.md) | Proposed project governance (mission, roles, decision-making) |
+| [CNCF Sandbox Proposal](docs/cncf-sandbox-proposal.md) | Draft application proposing GSM to the CNCF Sandbox |
+| [Cloud-Native Use Cases](docs/cloud-native-use-cases.md) | Concrete cloud-native scenarios and tool compositions |
+| [GSM and the Kubernetes Model](docs/gsm-and-kubernetes.md) | How GSM generalizes the declarative reconciliation pattern |
+| [CNCF Submission Playbook](docs/cncf-submission-playbook.md) | How CNCF acceptance works and GSM's path to Sandbox |
 
 ## The model in one paragraph
 
