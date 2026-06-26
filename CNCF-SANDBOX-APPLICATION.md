@@ -8,8 +8,8 @@
 
 ## Application contact details
 
-- **Primary contact:** Clément Cazaud — clement.cazaud@outlook.com (interim)
-- **Organization / steward:** Poesis — https://github.com/poesis-cloud
+- **Primary contact:** Clément Cazaud — <clement.cazaud@outlook.com> (interim)
+- **Organization / steward:** Poesis — <https://github.com/poesis-cloud>
 - **Maintainer:** Clément Cazaud (see `MAINTAINERS.md`)
 
 ## Project name
@@ -22,14 +22,14 @@ GSM is an open, vendor-neutral standard for **defining and governing** software-
 
 ## Project repository
 
-- https://github.com/poesis-cloud/gsm
+- <https://github.com/poesis-cloud/gsm>
 
 ## Project website / documentation
 
-- https://docs.poesis.cloud/gsm/
-- Specification: https://docs.poesis.cloud/gsm/specification/
-- Conformance: https://docs.poesis.cloud/gsm/conformance/
-- Cloud-native use cases: https://docs.poesis.cloud/gsm/cloud-native-use-cases/
+- <https://docs.poesis.cloud/gsm/>
+- Specification: <https://docs.poesis.cloud/gsm/specification/>
+- Conformance: <https://docs.poesis.cloud/gsm/conformance/>
+- Cloud-native use cases: <https://docs.poesis.cloud/gsm/cloud-native-use-cases/>
 
 ## Additional repositories
 
@@ -65,7 +65,7 @@ Cloud-native systems are governed systems: every workload carries security, reli
 - **Continuous compliance & data protection** — GDPR/NIS2/DORA sourced into Archetypes; the `$gsm:dataProtection` vocabulary governs at-rest/in-transit handling.
 - **Platform & FinOps** — golden-path and cost obligations over application definitions; **Backstage**, **Crossplane**, **OpenCost** realize/observe them.
 
-Full detail: https://docs.poesis.cloud/gsm/cloud-native-use-cases/
+Full detail: <https://docs.poesis.cloud/gsm/cloud-native-use-cases/>
 
 ## Why CNCF, and why now
 
@@ -79,7 +79,7 @@ The standard mandates no vendor, language, runtime, or storage technology. Confo
 
 - **OpenTelemetry** — RUN layer (telemetry); complementary.
 - **CloudEvents** — event interchange; reused as a carrier, not replaced.
-- **Open Policy Agent / policy-as-code** — evaluate rules against current state; GSM governs the *definition of the state* with a lifecycle and governance grammar. Complementary.
+- **Open Policy Agent / policy-as-code** — evaluate rules against current state; GSM governs the _definition of the state_ with a lifecycle and governance grammar. Complementary.
 - **TOGAF / ArchiMate, ISO 25010, GDPR/NIS2/DORA** — sourced into GSM as Archetypes and DNA, not replaced.
 
 ## Governance, contributing, and Code of Conduct

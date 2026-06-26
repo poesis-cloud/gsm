@@ -20,7 +20,7 @@ This Code of Conduct applies within all project spaces (repository, issues, pull
 
 Report unacceptable behavior to the project maintainers:
 
-- **Contact:** clement.cazaud@outlook.com (interim — a `poesis.cloud` reporting address will replace it). See `MAINTAINERS.md`.
+- **Contact:** <clement.cazaud@outlook.com> (interim — a `poesis.cloud` reporting address will replace it). See `MAINTAINERS.md`.
 
 After any CNCF hosting, reports may additionally be made to the CNCF Code of Conduct Committee per the CNCF policy linked above. Reports will be reviewed and investigated promptly and fairly; maintainers are obligated to respect the privacy and security of reporters.
 
